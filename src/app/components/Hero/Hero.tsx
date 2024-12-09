@@ -51,7 +51,7 @@ function Hero() {
             </div>
             <div>
               <Image
-                src={"/Granite square side table 1.svg"}
+                src={"/Mask group (5).svg"}
                 alt="img"
                 width={250}
                 height={150}
