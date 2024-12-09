@@ -1,4 +1,4 @@
-import { Info, Home, Heart, Search, Settings,ShoppingCart,Store,Phone } from "lucide-react"
+import { Info, Home, Heart, Search,ShoppingCart,Store,Phone } from "lucide-react"
 
 import {
   Sidebar,
