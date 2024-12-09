@@ -51,7 +51,7 @@ function Hero() {
             </div>
             <div>
               <Image
-                src={"/Cloud sofa three seater + ottoman_3 1.svg"}
+                src={"/Granite square side table 1.svg"}
                 alt="img"
                 width={250}
                 height={150}
