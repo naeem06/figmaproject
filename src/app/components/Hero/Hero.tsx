@@ -12,7 +12,9 @@ function Hero() {
             </div>
             <div className="h-[49px] flex items-center">
               <div className="shadow border-b border-black w-[121px] text-center text-[24px] font-[500] mt-20">
-                <Link href={"/shop"}>Shop Now</Link>
+                <Link href={"/shop"}>
+                <button>Shop Now</button>
+                </Link>
               </div>
             </div>
           </div>
